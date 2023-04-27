@@ -1,1 +1,3 @@
 instalado o flask
+
+Nossa idéia é ter um sistema de gestão de fila de atendimento de clientes on line
